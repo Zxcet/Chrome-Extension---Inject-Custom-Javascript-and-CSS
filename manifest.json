@@ -6,7 +6,6 @@
     "content_scripts" : [
         {
             "js" : ["init.js"],
-            "css": ["styles.css"],
             "matches" : ["*://www.google.com/"]
         }
     ]
